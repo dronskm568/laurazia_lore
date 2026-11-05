@@ -6,7 +6,7 @@
 
 ### Географія
 - [Лавразія](/geography/lavrasia.md) — континент
-- [Гондвана](/geography/gondwana.md) — далекі землі
+- [Гондвана](distant_lands.md) — далекі землі
 - [Омніпорт](/geography/omniport.md) — місто
 - [Терикон](/geography/terikon.md) — район
 - [Кнокенбах](/geography/knokenbach.md) — містечко
