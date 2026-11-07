@@ -1,22 +1,46 @@
-# Лавразія — Worldbuilding Wiki (Гравці)
+# Лавразія — Worldbuilding Wiki
 
-**Лавразія** — це пост-апокаліптичний світ на континенті, спустошеному війною.
+**Лавразія** — це пост-апокаліптичний світ на континенті, спустошеному війною та темною маною.
 
 ## Навігація
 
 ### Географія
-- [Лавразія](/geography/lavrasia.md) — континент
-- [Гондвана](distant_lands.md) — далекі землі
-- [Омніпорт](/geography/omniport.md) — місто
-- [Терикон](/geography/terikon.md) — район
-- [Кнокенбах](/geography/knokenbach.md) — містечко
+- [Лавразія](/geography/lavrasia.md) — головний континент
+- [Гондвана](/geography/gondwana.md) — далекі землі
+- [Омніпорт](/geography/omniport.md) — головний порт
+- [Терикон](/geography/terikon.md) — район Омніпорта
+- [Кнокенбах](/geography/knokenbach.md) — шахтарське містечко
+
+### Магія
+- [Чорна мана](/magic-system/black-mana.md) — основна сила
+- [Сита мана](/magic-system/satiated-mana.md) — підвид
+- [Використання Чорної Мани](/magic-system/black-mana-overchannel.md)
+- [Імунітет до малих доз](/magic-system/low-life-energy-immunity.md)
 
 ### Економіка
 - [Пайок (RU)](/economy/ration-unit.md)
+- [Збоченені міста](burnt-fields.md)
 
 ### Історія
+- [21 рік темної мани](/history/twenty-one-years-of-black-mana.md)
+- [Війна та її початок](/history/the-final-year-and-the-fifteen-years-to-its-rise.md)
+
+### Лабораторії
+- [Lab-S3.2](/facilities/lab-s3-2.md)
+- [Lab-M4.3](/facilities/lab-m4-3.md)
+
+### Персонажі
+- [Ханна](/characters/hanna.md)
+- [Амадей](/characters/amadeus.md)
+
+### Богини
+- [Ніка](/deities/nika.md)
+
+### Концепти
+- [Життєва енергія](/concepts/life-energy.md)
+- [Вигорілі поля](burnt-fields.md)
 - [60-річна війна](/history/sixty-year-war.md)
 
 ---
 
-> ℹ️ Це публічна інформація. Детальніше — у файлах гейміста.
+> ⚠️ Увага: Більшість файлів мають статус **draft**. Це канон-ідеї, які потребують вашого підтвердження для офіційного включення.
