@@ -22,7 +22,6 @@
 - [Збоченені міста](burnt-fields.md)
 
 ### Історія
-- [21 рік темної мани](/history/twenty-one-years-of-black-mana.md)
 - [Війна та її початок](/history/the-final-year-and-the-fifteen-years-to-its-rise.md)
 
 ### Лабораторії
