@@ -77,4 +77,3 @@ source: sources/lavrasia-original.docx
 
 [[Ніка]] — богиня, що надсилає їй віщі.
 [[hanna]] — відома науковиця.
-[[satiated-mana]] — магічна сила.
