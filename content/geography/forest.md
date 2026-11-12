@@ -1,6 +1,10 @@
 ---
-title: Великий ліс (робоча назва)
-tags: [geography, forest, mycelium, elves]
+title: Великий ліс
+tags:
+  - geography
+  - forest
+  - mycelium
+  - elves
 status: draft
 source: author
 ---
