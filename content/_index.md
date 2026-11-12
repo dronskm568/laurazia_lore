@@ -1,4 +1,9 @@
+---
+title: Лавразія — Worldbuilding Wiki
+status: draft
+---
 # Лавразія — Worldbuilding Wiki
+## Вступ
 
 **Лавразія** — це пост-апокаліптичний світ на континенті, спустошеному війною та темною маною.
 
@@ -6,7 +11,6 @@
 
 ### Географія
 - [Лавразія](/geography/lavrasia.md) — головний континент
-- [Гондвана](/geography/gondwana.md) — далекі землі
 - [Омніпорт](/geography/omniport.md) — головний порт
 - [Терикон](/geography/terikon.md) — район Омніпорта
 - [Кнокенбах](/geography/knokenbach.md) — шахтарське містечко
@@ -18,14 +22,13 @@
 
 ### Економіка
 - [Пайок (RU)](/economy/ration-unit.md)
-- [Вигорілі поля](burnt-fields.md)
-
-### Історія
-- [Війна та її початок](/history/the-final-year-and-the-fifteen-years-to-its-rise.md)
+- [Збоченені міста](burnt-fields.md)
 
 ### Персонажі
 - [Ханна](/characters/hanna.md)
 - [Амадей](/characters/amadeus.md)
+
+### Екологія та народи
 
 ### Богини
 - [Ніка](/deities/nika.md)
@@ -34,3 +37,7 @@
 - [Життєва енергія](/concepts/life-energy.md)
 - [Вигорілі поля](burnt-fields.md)
 - [60-річна війна](/history/sixty-year-war.md)
+
+---
+
+> ⚠️ Увага: Більшість файлів мають статус **draft**. Це канон-ідеї, які потребують вашого підтвердження для офіційного включення.
