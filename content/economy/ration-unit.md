@@ -1,6 +1,6 @@
 ---
 title: Пайок (Ration Unit, RU)
-tags: [currency, economy, survival-economy]
+tags: [currency]
 status: draft
 source: sources/lavrasia-original.docx
 ---

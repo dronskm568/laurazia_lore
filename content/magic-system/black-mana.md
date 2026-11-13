@@ -2,10 +2,9 @@
 title: Чорна мана
 tags:
   - magic
-  - black-mana
   - dark-mana
-  - energy
   - concept
+  - black-mana
 status: draft
 source: sources/lavrasia-original.docx
 ---

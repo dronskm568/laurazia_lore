@@ -1,6 +1,6 @@
 ---
 title: Мінерва
-tags: [character, monk, lionin, player-character]
+tags: [character, player-character]
 status: draft
 source: sources/lavrasia-original.docx
 ---

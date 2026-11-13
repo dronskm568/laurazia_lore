@@ -1,6 +1,6 @@
 ---
 title: Кнокенбах
-tags: [geography, city, mining, accidental]
+tags: [city, geography]
 status: draft
 source: sources/lavrasia-original.docx
 ---

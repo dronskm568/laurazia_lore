@@ -1,6 +1,6 @@
 ---
 title: 60-річна війна
-tags: [history, war, conflict]
+tags: [war, history]
 status: draft
 source: sources/lavrasia-original.docx
 ---

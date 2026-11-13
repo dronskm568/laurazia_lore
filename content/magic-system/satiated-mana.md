@@ -2,12 +2,10 @@
 title: Сита мана
 tags:
   - magic
-  - black-mana-variant
-  - hanna-research
   - concept
-  - black-mana
   - laboratory
   - research
+  - black-mana
 status: draft
 source: sources/lavrasia-original.docx
 ---

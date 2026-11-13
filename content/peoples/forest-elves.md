@@ -1,6 +1,6 @@
 ---
 title: Лісові ельфи
-tags: [people, elves, forest]
+tags: [elves]
 status: draft
 source: author
 ---

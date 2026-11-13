@@ -1,6 +1,6 @@
 ---
 title: Ніка
-tags: [deity, victory, war-goddess, mana-entity]
+tags: [deity]
 status: draft
 source: sources/lavrasia-original.docx
 ---

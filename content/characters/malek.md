@@ -1,6 +1,6 @@
 ---
 title: Малек Морроу
-tags: [character, rogue, halfling, player-character]
+tags: [character, rogue, player-character]
 status: draft
 source: sources/lavrasia-original.docx
 ---

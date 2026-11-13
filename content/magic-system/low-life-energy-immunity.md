@@ -1,6 +1,6 @@
 ---
 title: Імунітет до малих концентрацій мани
-tags: [magic, black-mana, immunity, concept]
+tags: [magic, immunity, concept, black-mana]
 status: draft
 source: sources/lavrasia-original.docx
 ---

@@ -1,6 +1,6 @@
 ---
 title: Амадей
-tags: [character, mage, researcher, deceased]
+tags: [character]
 status: draft
 source: sources/lavrasia-original.docx
 ---

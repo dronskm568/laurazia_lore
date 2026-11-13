@@ -1,6 +1,6 @@
 ---
 title: Поляна Ін
-tags: [geography, forest, contamination]
+tags: [contamination, geography]
 status: draft
 source: author
 ---

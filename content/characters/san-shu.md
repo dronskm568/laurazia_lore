@@ -1,6 +1,6 @@
 ---
 title: Сань Шу
-tags: [character, rogue, kitsune, player-character]
+tags: [character, rogue, player-character]
 status: draft
 source: sources/lavrasia-original.docx
 ---

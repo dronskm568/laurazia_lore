@@ -1,9 +1,8 @@
 ---
 title: Далекі землі
 tags:
-  - geography
   - continent
-  - destination
+  - geography
 status: public
 source: migration-plan.md
 ---

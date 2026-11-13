@@ -1,10 +1,8 @@
 ---
 title: Великий ліс
 tags:
-  - geography
-  - forest
-  - mycelium
   - elves
+  - geography
 status: draft
 source: author
 ---

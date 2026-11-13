@@ -3,8 +3,6 @@ title: Ханна
 tags:
   - character
   - scientist
-  - black-mana-researcher
-  - false-goddess
 status: draft
 source: sources/lavrasia-original.docx
 ---

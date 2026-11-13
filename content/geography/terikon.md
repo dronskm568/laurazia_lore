@@ -1,6 +1,6 @@
 ---
 title: Терикон
-tags: [geography, city, district, omniport]
+tags: [city, geography]
 status: draft
 source: sources/lavrasia-original.docx
 ---

@@ -1,6 +1,6 @@
 ---
 title: Грибниця
-tags: [ecology, forest, mycelium, entity]
+tags: [ecology]
 status: draft
 source: author
 ---

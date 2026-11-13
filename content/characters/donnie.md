@@ -1,6 +1,6 @@
 ---
 title: Донні
-tags: [character, bard, half-elf, player-character, rogue, courtier]
+tags: [character, player-character, rogue]
 status: draft
 source: sources/lavrasia-original.docx
 ---

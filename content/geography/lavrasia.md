@@ -1,6 +1,6 @@
 ---
 title: Лавразія
-tags: [geography, continent, starting-point]
+tags: [continent, geography]
 status: draft
 source: sources/lavrasia-original.docx
 ---

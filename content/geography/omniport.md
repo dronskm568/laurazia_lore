@@ -1,6 +1,6 @@
 ---
 title: Омніпорт
-tags: [geography, city, port, coastal]
+tags: [city, geography]
 status: draft
 source: sources/lavrasia-original.docx
 ---

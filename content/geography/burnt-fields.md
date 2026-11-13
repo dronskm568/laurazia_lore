@@ -1,12 +1,9 @@
 ---
 title: Забруднені вигорілі поля
 tags:
-  - geography
-  - burnt
-  - black-mana
-  - wasteland
-  - ecology
   - contamination
+  - black-mana
+  - ecology
 status: draft
 source: sources/lavrasia-original.docx
 ---
