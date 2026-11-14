@@ -10,33 +10,36 @@ status: draft
 ## Навігація
 
 ### Географія
-- [Лавразія](/geography/lavrasia.md) — головний континент
-- [Омніпорт](/geography/omniport.md) — головний порт
-- [Терикон](/geography/terikon.md) — район Омніпорта
-- [Кнокенбах](/geography/knokenbach.md) — шахтарське містечко
+- [[lavrasia|Лавразія]] — головний континент
+- [[omniport|Омніпорт]] — головний порт
+- [[terikon|Терикон]] — район Омніпорта
+- [[knokenbach|Кнокенбах]] — шахтарське містечко
+- [[forest|Великий ліс]] — ліс із грибницею та ельфами
+- [[in-glade|Поляна Ін]] — заражена поляна в лісі
 
 ### Магія
-- [Чорна мана](/magic-system/black-mana.md) — основна сила
-- [Сита мана](/magic-system/satiated-mana.md) — підвид
-- [Імунітет до малих доз](/magic-system/low-life-energy-immunity.md)
+- [[black-mana|Чорна мана]] — основна сила
+- [[satiated-mana|Сита мана]] — підвид
+- [[low-life-energy-immunity|Імунітет до малих доз]]
 
 ### Економіка
-- [Пайок (RU)](/economy/ration-unit.md)
-- [Збоченені міста](burnt-fields.md)
+- [[ration-unit|Пайок (RU)]]
 
 ### Персонажі
-- [Ханна](/characters/hanna.md)
-- [Амадей](/characters/amadeus.md)
+- [[hanna|Ханна]]
+- [[amadeus|Амадей]]
 
 ### Екологія та народи
+- [[mycelium|Грибниця]]
+- [[forest-elves|Лісові ельфи]]
 
 ### Богини
-- [Ніка](/deities/nika.md)
+- [[nika|Ніка]]
 
 ### Концепти
-- [Життєва енергія](/concepts/life-energy.md)
-- [Вигорілі поля](burnt-fields.md)
-- [60-річна війна](/history/sixty-year-war.md)
+- [[life-energy|Життєва енергія]]
+- [[burnt-fields|Вигорілі поля]]
+- [[sixty-year-war|60-річна війна]]
 
 ---
 
